@@ -4,12 +4,19 @@ This is a simple web app to find the union and intersection of two linked lists.
 
 ## Demo
 
+#### https://sauravhathi.github.io/union-and-intersection-of-two-linked-lists
 
 #### HomePage
 
+![image](https://user-images.githubusercontent.com/61316762/200388483-cc85b564-bb04-4bdb-bbdd-7d46d4e549e8.png)
+
 #### UI
 
+![image](https://user-images.githubusercontent.com/61316762/200388593-36e82a26-13b4-496b-a234-059a3f7211bd.png)
+
 #### Output
+
+![image](https://user-images.githubusercontent.com/61316762/200389499-7e87a3d3-3301-4c59-9989-d13774248d9c.png)
 
 ## Algorithm
 
