@@ -1,6 +1,6 @@
 # Union and Intersection of Two Linked Lists
 
-This is a simple web app to find the union and intersection of two linked lists. The app is built using HTML, CSS and JavaScript. The app is hosted on [Netlify](https://www.netlify.com/).
+This is a simple web app to find the union and intersection of two linked lists. The app is built using HTML, CSS and JavaScript. The app is hosted on [Github](https://sauravhathi.github.io/union-and-intersection-of-two-linked-lists).
 
 ## Demo
 
